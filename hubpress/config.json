@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "brunchlabs",
-    "repositoryName": "brunchlabs.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"brunchlabs","repositoryName":"brunchlabs.github.io","branch":"master"},"site":{"title":"BrunchLabs","description":"holacracy design and development","url":"https://brunchlabs.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//brunchlabs.github.io/themes/Casper"}}
